@@ -1,0 +1,96 @@
+body, html {
+  background: url('../img/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+body {
+  text-align: center;
+}
+
+.container {
+  margin-top: 180px;
+}
+
+#a1 {
+  position:relative;
+  right: 25px;
+}
+
+#a2 {
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+ }
+
+#a3 {
+  position: relative;
+  bottom: 50px;
+  left:50px;
+}
+
+#a4 {
+  position: relative;
+  left: 70px;
+}
+
+#a5 {
+  position:relative;
+  bottom: 15px;
+}
+
+#a6 {
+  padding-left: 50px;
+  padding-right: 60px;
+}
+
+#a8 {
+  position:relative;
+  bottom: 59px;
+  right:41px;
+}
+
+#a9 {
+  position: relative;
+  top: 30px;
+  right: 20px;
+}
+
+#a10 {
+  position:relative;
+  top: 83px;
+}
+
+#a11 {
+  position:relative;
+  top: 44px;
+  left: 31px;
+}
+
+#a12 {
+  position:relative;
+  bottom: 27px;
+  left: 36px;
+}
+
+.foot {
+  margin-top:200px;
+
+}
+
+
+li {
+color: red;
+cursor: pointer;
+text-decoration: underline;
+list-style: none;
+display: inline-block;
+}
+
+p {
+  color: red;
+}
